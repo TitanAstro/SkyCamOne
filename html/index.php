@@ -247,7 +247,7 @@ if (file_exists($f)) {
 			</button>
 			<div class="navbar-brand valign-center">
 				<a id="index" class="navbar-brand valign-center" href="index.php">
-					<img src="documentation/img/allsky-logo.png" title="Allsky logo">
+					<img src="documentation/img/skycamone-logo.png" title="Allsky logo">
 					<div class="navbar-title">Web User Interface (WebUI)</div>
 				</a>
 				<div class="version-title version-title-color">
